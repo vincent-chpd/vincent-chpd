@@ -4,7 +4,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,sqlite,figma)](https://skillicons.dev)
 
 
 <!--- 🔭 I’m currently working on ...
