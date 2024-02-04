@@ -2,6 +2,7 @@
 
 ### 🌍  I am a Junior Web Developer based in London, UK. 
 
+
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,sqlite,figma)](https://skillicons.dev)
