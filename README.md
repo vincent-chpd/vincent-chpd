@@ -9,8 +9,7 @@
 
 
 - 🔭 I’m currently working on an social app dog owners! 🐶
-- 🌱 I’m currently learning Ruby on Rails
-- 👯 I’m looking to collaborate on React
+- 🌱 I’m currently learning React
 - 📫 How to reach me: vincent.chaussepid@gmail.com
 - 😄 Pronouns: he/him
 
