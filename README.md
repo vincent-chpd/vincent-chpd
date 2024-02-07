@@ -12,7 +12,6 @@
 
 - 🔭 I’m currently working on an social app dog owners! 🐶
 - 🌱 I’m currently learning React
-- 📫 How to reach me: vincent.chaussepid@gmail.com
 - 😄 Pronouns: he/him
 
 ##
