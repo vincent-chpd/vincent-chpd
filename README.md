@@ -7,7 +7,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,sqlite,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,ruby,rails,postgresql,figma)](https://skillicons.dev)
 
 - Looking for new opportinuties 👀
 - Currently working on an social app dog owners! 🐶📱
