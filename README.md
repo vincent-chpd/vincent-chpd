@@ -1,5 +1,5 @@
 
-# Hi! My name is Vincent ! 😄 👋
+# Hi, My name is Vincent ! 😄 👋
 
 ### 🌍  I am a Junior Web Developer based in London, UK. 
 
