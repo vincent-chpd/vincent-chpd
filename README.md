@@ -9,9 +9,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,ruby,rails,postgresql,figma)](https://skillicons.dev)
 
-- Looking for new opportinuties 👀
 - Currently working on an social app dog owners! 🐶📱
-- Focusing on learning React 🌐
+- Learning React.js 🌐
 - Pronouns: he/him 🏳️‍🌈
 
 ##
