@@ -1,7 +1,7 @@
 
 # Hi, My name is Vincent ! 😄 👋
 
-### 🌍  I am a Front-End Web Developer based in London, UK. 
+### 👨‍💻 I am a Front-End Web Developer
 
 
 
