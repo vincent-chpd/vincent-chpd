@@ -1,16 +1,16 @@
 
 # Hi, My name is Vincent ! 😄 👋
 
-### 🌍  I am a Junior Web Developer based in London, UK. 
+### 🌍  I am a Front-End Web Developer based in London, UK. 
 
 
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,ruby,rails,postgresql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,html,css,ruby,rails,postgresql,figma)](https://skillicons.dev)
 
-- Currently working on an social app dog owners! 🐶📱
-- Learning React.js 🌐
+- Currently working for a transport technology company 🚎📱
+- Based in London, UK 📍
 - Pronouns: he/him 🏳️‍🌈
 
 ##
