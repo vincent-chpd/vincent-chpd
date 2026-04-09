@@ -8,7 +8,7 @@
 
 - Currently working for a transport technology company 🚎📱
 - Based in London, UK 📍
-- Pronouns: he/him 🏳️‍🌈
+- Pronouns: he/him 
   
 ## Tech Stack
 
